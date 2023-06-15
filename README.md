@@ -5,6 +5,10 @@ FirebaseAuthのログイン機能と退会機能だけを持ったWebアプリ�
 近年GooglePlayConsoleのデータセーフティセクションでアプリ外でのアカウント削除が義務付けられました。
 サクッとアプリ作ってリリースしたいだけなのにWebアプリまで開発しなきゃいけないとなってリリースのハードルが上がってしまうので、本当に簡単な退会機能だけを持つアプリです。
 
+## Requirements
+* FirebaseAuthを利用したアプリであること
+* メールパスワード認証を利用したアプリであること
+* FirebaseCLIをインストールしてログインしていること
 
 ## Usage
 Use this repositoryからRepositoryを作成してください。
